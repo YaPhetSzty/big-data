@@ -1,3 +1,3 @@
 # big-data
 
-Hi ,guys!this is a test repository for zty's video
+Hello ,guys!this is a test repository for zty's video
